@@ -2,7 +2,7 @@
 
 A machine learning project that predicts an individual's yearly medical insurance charges from age, sex, BMI, number of children, smoking status and region. Four regression models are compared, and the best one (Gradient Boosting) is served through a Streamlit web app.
 
-**Live demo:** _add your Streamlit Community Cloud link here_
+**Live demo:**https://medical-cost-prediction-6rdftrjlmuht7adz4idu2u.streamlit.app/#medical-insurance-cost-prediction
 
 ## Dataset
 
